@@ -35,25 +35,6 @@ To develop a device that:
 
 ---
 
-## 📸 Project Demo
-
-### Hardware Setup
-![Circuit Overview](Circuit_Overview.jpg)
-
-### LCD Displaying BPM Output
-![Heart Rate 46 BPM](Heart_Rate_46BPM.jpg)
-![Heart Rate 129 BPM](Heart_Rate_129BPM.jpg)
-
-### LCD Scrolling Output
-![LCD Output](LCD_Output.jpg)
-
-### Pulse Sensor (Glowing Red on Finger)
-![Pulse Sensor](Pulse_Sensor.jpg)
-
-### Arduino Code
-![Code Screenshot](Code_Screenshot.jpg)
-
----
 
 ## 🛠️ Components Used
 
